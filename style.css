@@ -133,9 +133,14 @@ main {
     color: whitesmoke;
  }
 
+ a:link {
+   color:whitesmoke;
+ }
+
  a {
     text-decoration: none;
  }
+
 
  footer {
     background-color: #1a1a1a;
